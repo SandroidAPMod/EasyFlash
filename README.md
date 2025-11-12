@@ -1,6 +1,7 @@
 # Flash Player Front-end “Easy Flash“
 
-## Release:
+## Release / Download
+https://github.com/SandroidAPMod/EasyFlash/releases/latest
 
 ## Introdução:
 
@@ -14,7 +15,7 @@ Descompacte o Arquivo: Easy Flash e Coloque seus games em formato .swf, na pasta
 
 Se o game não for executado de maneira correta, tente mudar o nucleo do flash, clicando na barra onde esta escrito: FlashPlayer32.exe
 
-## Apoie o Desenvolvedor / não obrigatório
+## Apoie o Desenvolvedor / não obrigatório:
 Se chou esse Projeto util e gostaria de me apoiar, considere fazer uma doação:
 
 **Pix**: f9073918-40e7-411a-a2fd-d6d419de3a40
